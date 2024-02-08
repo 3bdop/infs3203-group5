@@ -13,7 +13,7 @@ This README document provides a summary of the bug reports in the group's reposi
 - **Major Bugs:**
     - The add method will subtract the numbers.
     - The subtract method will add the numbers.
-    - Input field when entering anything other than int/float.
+    - Square root method prompts the user for a second input and allows negative numbers.
       
 **Total Bugs: 4**
 
