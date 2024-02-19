@@ -34,6 +34,6 @@ Our testing process employed various approaches to ensure the robustness of the 
 The bug report aggregation and reflective analysis presented in this document aim to provide a comprehensive overview of the project's testing phase. Continuous improvement strategies will be implemented based on the insights gained from this process.
 
 ### Contributors
-- Abdulrahman (@abood1509)
+- Abdulrahman (@3bdop)
 - Lojain (@L60102291)
 - Yasmin (@Gauax)
